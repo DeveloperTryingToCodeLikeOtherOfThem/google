@@ -23,7 +23,7 @@ namespace google.prompt {
      */
     //% weight=10 help=game/ask-for-string
     //% blockId=googlesearchengine
-    //% block="google searc engine $message || and max length $answerLength use on-screen keyboard $useOnScreenKeyboard"
+    //% block="google search engine $message || and max length $answerLength use on-screen keyboard $useOnScreenKeyboard"
     //% message.shadow=text
     //% message.defl=""
     //% answerLength.defl="12"
