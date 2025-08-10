@@ -1,0 +1,30 @@
+{
+    "name": "Google",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "ns.ts",
+        "controller.ts",
+        "control.ts",
+        "controllerbutton.ts",
+        "controlleroverides.ts",
+        "searchEnginePrompt.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
